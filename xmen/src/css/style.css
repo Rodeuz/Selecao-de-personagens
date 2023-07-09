@@ -70,6 +70,10 @@ body::before {
   height: 100%;
 }
 
+li.personagem {
+  border-bottom: solid 4px #37f4ff;
+}
+
 .lista-de-personagens .personagem.selecionado {
   box-shadow: 0px 0px 24px 5px #0271f7;
 }
