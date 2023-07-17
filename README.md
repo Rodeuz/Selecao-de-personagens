@@ -2,10 +2,10 @@
 
 ## Versão X-men
 
-- <a href="https://projeto-x-men-tau.vercel.app">Link para o projeto</a>
+- <a target="_blank"  href="https://projeto-x-men-tau.vercel.app" rel="noreferrer noopener nofollow">Link para o projeto</a>
   <img src="./README-imgs/print-x-men.png" alt="" />
 
 ## Versão Star-wars
 
-- <a href="https://projeto-star-wars-one.vercel.app">Link para o projeto</a>
+- <a target="_blank" href="https://projeto-star-wars-one.vercel.app" rel="noreferrer noopener nofollow">Link para o projeto</a>
   <img src="./README-imgs/print-star-wars.png" alt="" />
